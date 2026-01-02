@@ -1,0 +1,8 @@
+{
+    "name": "appsiwebsit-root",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev:full": "npm run dev:full --prefix client"
+    }
+}
